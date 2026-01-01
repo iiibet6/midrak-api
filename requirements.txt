@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+requests
+torch
+transformers
+sentence-transformers
+tqdm
+scikit-learn
+pandas
+numpy
+camel-tools
