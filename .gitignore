@@ -4,3 +4,4 @@ outputs/
 *.log
 *.pyc
 uploads/temp/
+uploads/
